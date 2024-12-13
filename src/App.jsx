@@ -1,8 +1,11 @@
 import React from 'react'
+import FormBuilder from './Forbuilder'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <FormBuilder/>
+    </div>
   )
 }
 
